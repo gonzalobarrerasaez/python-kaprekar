@@ -1,4 +1,4 @@
-#Tan solo intentando hacer un algoritmo que dudo que sea necesario usar
+# Tan solo intentando hacer un algoritmo que dudo que sea necesario usar
 
 
 Se conoce como constante de Kaprekar (en honor al matemático D. R. Kaprekar) al punto fijo de la aplicación iterativa de la denominada Operación de Kaprekar,1​2​ que consiste en calcular la diferencia entre un número cualquiera con sus dígitos ordenados de mayor a menor y dicho número con el orden de sus dígitos de menor a mayor.
